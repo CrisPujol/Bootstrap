@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../sass/style.css",
+	"sources": [
+		"../sass/style.scss"
+	],
+	"sourcesContent": [
+		".content{\r\n\tbackground-color: #ededed;\r\n\tpadding-top: 200px; \r\n\r\n}\r\n\r\n.container{\r\n\tbackground-color: white;\r\n\tborder: 1px solid #a8a8a8;\r\n\tpadding-left: 30px;\r\n\tpadding-right: 30px;\r\n}\r\n\r\n\r\n.photo-margin{\r\n\tmargin-top: -110px;\r\n\tmargin-bottom: 25px;\r\n}\r\n\r\n.container h1{\r\n\tfont-weight: bold;\r\n\tmargin: 5px;\r\n}\r\n\r\n\r\n.name-color{\r\n\tcolor: #3b5a76;\r\n}\r\n\r\n.container h2{\r\n\tcolor: #3b5a76;\r\n\tfont-size: 26px;\r\n\tmargin-top: 60px;\r\n}\r\n\r\n\r\n.list-contact li{\r\n\tpadding-top:  10px;\r\n\tpadding-bottom:   10px;\r\n}"
+	],
+	"mappings": ";AAAA,AAAA,QAAQ,CAAA;EACP,gBAAgB,EAAE,OAAQ;EAC1B,WAAW,EAAE,KAAM;CAEnB;;;AAED,AAAA,UAAU,CAAA;EACT,gBAAgB,EAAE,KAAM;EACxB,MAAM,EAAE,iBAAkB;EAC1B,YAAY,EAAE,IAAK;EACnB,aAAa,EAAE,IAAK;CACpB;;;AAGD,AAAA,aAAa,CAAA;EACZ,UAAU,EAAE,MAAO;EACnB,aAAa,EAAE,IAAK;CACpB;;;AAED,AAAW,UAAD,CAAC,EAAE,CAAA;EACZ,WAAW,EAAE,IAAK;EAClB,MAAM,EAAE,GAAI;CACZ;;;AAGD,AAAA,WAAW,CAAA;EACV,KAAK,EAAE,OAAQ;CACf;;;AAED,AAAW,UAAD,CAAC,EAAE,CAAA;EACZ,KAAK,EAAE,OAAQ;EACf,SAAS,EAAE,IAAK;EAChB,UAAU,EAAE,IAAK;CACjB;;;AAGD,AAAc,aAAD,CAAC,EAAE,CAAA;EACf,WAAW,EAAG,IAAK;EACnB,cAAc,EAAI,IAAK;CACvB",
+	"names": []
+}
